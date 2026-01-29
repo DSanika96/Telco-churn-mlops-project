@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/2ed7f90470144591afb0b83c4c210e04/artifacts
+end_time: 1768799710083
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: 2ed7f90470144591afb0b83c4c210e04
+run_name: nimble-whale-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768799647839
+status: 3
+tags: []
+user_id: sanika.deshpande

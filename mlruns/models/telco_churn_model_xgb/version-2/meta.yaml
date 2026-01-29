@@ -1,0 +1,15 @@
+creation_timestamp: 1768799759940
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1768799759940
+model_id: ''
+name: telco_churn_model_xgb
+run_id: 2ed7f90470144591afb0b83c4c210e04
+run_link: ''
+source: models:/telco_churn_model_xgb/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/models/m-9c4542a8db3b49bcba43504a0b03558c/artifacts
+user_id: null
+version: 2

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/830274176c2d4a5582ad3f5c82139a73/artifacts
+end_time: 1768799318908
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: 830274176c2d4a5582ad3f5c82139a73
+run_name: nimble-finch-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768799298984
+status: 4
+tags: []
+user_id: sanika.deshpande

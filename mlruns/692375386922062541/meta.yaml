@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541
+creation_time: 1768798631571
+experiment_id: '692375386922062541'
+last_update_time: 1768798631571
+lifecycle_stage: active
+name: telco_churn_experiment

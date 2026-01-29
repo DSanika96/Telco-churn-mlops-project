@@ -1,0 +1,15 @@
+creation_timestamp: 1768799252074
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1768799252074
+model_id: m-4f99d77ce5634c53a03edecf1ded528b
+name: telco_churn_preprocessor
+run_id: d248c76c919a4a7ca1c5870146975339
+run_link: null
+source: models:/m-4f99d77ce5634c53a03edecf1ded528b
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/models/m-4f99d77ce5634c53a03edecf1ded528b/artifacts
+user_id: null
+version: 2

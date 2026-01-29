@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/models/m-fb008c8b95bd41bd911e06456175f79b/artifacts
+creation_timestamp: 1768798634742
+experiment_id: '692375386922062541'
+last_updated_timestamp: 1768798654694
+model_id: m-fb008c8b95bd41bd911e06456175f79b
+model_type: null
+name: transformer
+source_run_id: fbee41d3376442db97f143cba704f50f
+status: 2
+status_message: null

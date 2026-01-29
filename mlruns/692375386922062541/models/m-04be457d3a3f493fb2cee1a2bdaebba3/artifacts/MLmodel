@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/models/m-04be457d3a3f493fb2cee1a2bdaebba3/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.5.1
+model_id: m-04be457d3a3f493fb2cee1a2bdaebba3
+model_size_bytes: 3503
+model_uuid: m-04be457d3a3f493fb2cee1a2bdaebba3
+prompts: null
+run_id: 2ed7f90470144591afb0b83c4c210e04
+utc_time_created: '2026-01-19 05:14:09.890078'

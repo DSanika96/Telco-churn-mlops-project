@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  mlflow:
+    image: python:3.11-slim
+    command: >
+      sh -c "pip install mlflow && mlflow ui --host 0.0.0.0 --port 5000 --backend-store-uri ./mlruns"
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlruns:/mlruns
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src/model_joblib.pkl:/app/model_joblib.pkl

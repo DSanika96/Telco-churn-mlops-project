@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/fbee41d3376442db97f143cba704f50f/artifacts
+end_time: 1768798655232
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: fbee41d3376442db97f143cba704f50f
+run_name: intrigued-donkey-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768798634174
+status: 4
+tags: []
+user_id: sanika.deshpande

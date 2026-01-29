@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/bbbe825f04e34efa9526c49359cd8e8d/artifacts
+end_time: 1768799459879
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: bbbe825f04e34efa9526c49359cd8e8d
+run_name: salty-steed-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768799438256
+status: 4
+tags: []
+user_id: sanika.deshpande

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/091e42abbb06404d9c3df28e727a6f79/artifacts
+end_time: 1769168554448
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: 091e42abbb06404d9c3df28e727a6f79
+run_name: adventurous-wasp-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769168488653
+status: 3
+tags: []
+user_id: sanika.deshpande

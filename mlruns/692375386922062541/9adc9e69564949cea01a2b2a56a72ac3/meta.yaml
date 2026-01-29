@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/9adc9e69564949cea01a2b2a56a72ac3/artifacts
+end_time: 1768799557282
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: 9adc9e69564949cea01a2b2a56a72ac3
+run_name: fearless-crow-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768799556918
+status: 4
+tags: []
+user_id: sanika.deshpande

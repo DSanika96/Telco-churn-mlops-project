@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/models/m-b66096c55c9745b5bcda41548fa860d2/artifacts
+creation_timestamp: 1769168518418
+experiment_id: '692375386922062541'
+last_updated_timestamp: 1769168531505
+model_id: m-b66096c55c9745b5bcda41548fa860d2
+model_type: null
+name: model
+source_run_id: 091e42abbb06404d9c3df28e727a6f79
+status: 2
+status_message: null

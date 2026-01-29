@@ -1,0 +1,8 @@
+aliases:
+  production: '3'
+creation_timestamp: 1768799709836
+deployment_job_id: null
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1769170504806
+name: telco_churn_model_xgb

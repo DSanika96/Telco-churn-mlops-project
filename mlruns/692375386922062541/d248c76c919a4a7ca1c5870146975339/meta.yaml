@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanika.deshpande/Documents/Telco-churn-mlops-project/mlruns/692375386922062541/d248c76c919a4a7ca1c5870146975339/artifacts
+end_time: 1768799252329
+entry_point_name: ''
+experiment_id: '692375386922062541'
+lifecycle_stage: active
+run_id: d248c76c919a4a7ca1c5870146975339
+run_name: adaptable-smelt-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768799232935
+status: 4
+tags: []
+user_id: sanika.deshpande
